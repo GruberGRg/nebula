@@ -13,7 +13,7 @@
       "description": "Cosmos Running Minecraft 1.20.1 (Forge v47.3.10)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "ascenty-sp4-07.elgaehost.com.br:25570",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
