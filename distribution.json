@@ -11,9 +11,9 @@
       "id": "Cosmos-1.20.1",
       "name": "Cosmos (Minecraft 1.20.1)",
       "description": "Cosmos Running Minecraft 1.20.1 (Forge v47.3.10)",
-      "icon": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCirlce.png",
+      "icon": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png",
       "version": "1.0.0",
-      "address": "ascenty-sp4-07.elgaehost.com.br:25570",
+      "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -2465,10 +2465,21 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 74,
+            "size": 6176,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/servers.dat",
-            "MD5": "03b71ee0291392e23d56b9b44b1f66a0",
+            "MD5": "281aa998c0cc53ef2582278567580826",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "servers.dat_old",
+          "name": "servers.dat_old",
+          "type": "File",
+          "artifact": {
+            "size": 79,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/servers.dat_old",
+            "MD5": "6a8e90abde9fcc4c4dc1d0c401047b4b",
+            "path": "servers.dat_old"
           }
         },
         {
