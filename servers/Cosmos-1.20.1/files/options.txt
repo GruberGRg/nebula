@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources"]
+resourcePacks:["vanilla","resourcespacks","Moonlight Mods Dynamic Assets","fabric","black_icons","classic_icons","create:legacy_copper","high_contrast","programmer_art","white_icons"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
