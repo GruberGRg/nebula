@@ -1603,28 +1603,6 @@
           }
         },
         {
-          "id": "Better-Leaves-7.0-1.13+.zip",
-          "name": "Better-Leaves-7.0-1.13+.zip",
-          "type": "File",
-          "artifact": {
-            "size": 447282,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/Better-Leaves-7.0-1.13+.zip",
-            "MD5": "0853a5cc20a8e62038f59c347feb9df9",
-            "path": "Better-Leaves-7.0-1.13+.zip"
-          }
-        },
-        {
-          "id": "ComplementaryReimagined_r5.2.2.zip",
-          "name": "ComplementaryReimagined_r5.2.2.zip",
-          "type": "File",
-          "artifact": {
-            "size": 441683,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/ComplementaryReimagined_r5.2.2.zip",
-            "MD5": "a0852d3fddaf2c7f957ad6e1b8624513",
-            "path": "ComplementaryReimagined_r5.2.2.zip"
-          }
-        },
-        {
           "id": "2352c0f552fd6d3ac6a8ff11548d6633.gif",
           "name": "2352c0f552fd6d3ac6a8ff11548d6633.gif",
           "type": "File",
@@ -2384,80 +2362,69 @@
           }
         },
         {
-          "id": "Dramatic Skys Demo 1.5.3.25.zip",
-          "name": "Dramatic Skys Demo 1.5.3.25.zip",
-          "type": "File",
-          "artifact": {
-            "size": 9170073,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/Dramatic%20Skys%20Demo%201.5.3.25.zip",
-            "MD5": "f3ba5fa621788259d66fbb90463a44ed",
-            "path": "Dramatic Skys Demo 1.5.3.25.zip"
-          }
-        },
-        {
-          "id": "FA+Spiders-v1.1.zip",
-          "name": "FA+Spiders-v1.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 70808,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/FA+Spiders-v1.1.zip",
-            "MD5": "f30bda9b6db264a683c21b2be3520826",
-            "path": "FA+Spiders-v1.1.zip"
-          }
-        },
-        {
-          "id": "FreshAnimations_v1.8.zip",
-          "name": "FreshAnimations_v1.8.zip",
-          "type": "File",
-          "artifact": {
-            "size": 470506,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/FreshAnimations_v1.8.zip",
-            "MD5": "8c35864cfcaa378b5f110048bbcc8c40",
-            "path": "FreshAnimations_v1.8.zip"
-          }
-        },
-        {
-          "id": "Insanity-Shader-Universal-v1.650.zip",
-          "name": "Insanity-Shader-Universal-v1.650.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1037373,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/Insanity-Shader-Universal-v1.650.zip",
-            "MD5": "97a61aad0133f120e536a420b92d4e88",
-            "path": "Insanity-Shader-Universal-v1.650.zip"
-          }
-        },
-        {
-          "id": "MandalasGUI_Legacy+Modded_Dakmode_v4.6.zip",
-          "name": "MandalasGUI_Legacy+Modded_Dakmode_v4.6.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1072505,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/MandalasGUI_Legacy+Modded_Dakmode_v4.6.zip",
-            "MD5": "0089a70b3c6ee139d7868e1bcd4fb70d",
-            "path": "MandalasGUI_Legacy+Modded_Dakmode_v4.6.zip"
-          }
-        },
-        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
             "size": 3599,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/options.txt",
-            "MD5": "b2c045540391799f2dec19234deea94c",
+            "MD5": "bb3c496f69b1267b5d140332e7b1bc68",
             "path": "options.txt"
           }
         },
         {
-          "id": "Quark Programmer Art.zip",
-          "name": "Quark Programmer Art.zip",
+          "id": "FA+All_Extensions-v1.4.zip",
+          "name": "FA+All_Extensions-v1.4.zip",
           "type": "File",
           "artifact": {
-            "size": 266434,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/Quark%20Programmer%20Art.zip",
-            "MD5": "372d5ab8040ea8fbf0265bf9163ff206",
-            "path": "Quark Programmer Art.zip"
+            "size": 260285,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/resourcepacks/FA+All_Extensions-v1.4.zip",
+            "MD5": "6923ea8556177cc93166c01dc40a64e1",
+            "path": "resourcepacks/FA+All_Extensions-v1.4.zip"
+          }
+        },
+        {
+          "id": "FreshAnimations_v1.9.2.zip",
+          "name": "FreshAnimations_v1.9.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 516256,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/resourcepacks/FreshAnimations_v1.9.2.zip",
+            "MD5": "ebdaffde1a25273994c74b5d9ec21e1f",
+            "path": "resourcepacks/FreshAnimations_v1.9.2.zip"
+          }
+        },
+        {
+          "id": "MandalasGUI+Dakmode_1.20.5.zip",
+          "name": "MandalasGUI+Dakmode_1.20.5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 613907,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/resourcepacks/MandalasGUI+Dakmode_1.20.5.zip",
+            "MD5": "68c8bc0d1db51d73f588ed2658ff8f11",
+            "path": "resourcepacks/MandalasGUI+Dakmode_1.20.5.zip"
+          }
+        },
+        {
+          "id": "Stay_True_1.20.zip",
+          "name": "Stay_True_1.20.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2139266,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/resourcepacks/Stay_True_1.20.zip",
+            "MD5": "2d0227cf97a1adfd638bd5a1415c150e",
+            "path": "resourcepacks/Stay_True_1.20.zip"
+          }
+        },
+        {
+          "id": "waystones_1.20.zip",
+          "name": "waystones_1.20.zip",
+          "type": "File",
+          "artifact": {
+            "size": 234038,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/resourcepacks/waystones_1.20.zip",
+            "MD5": "36888df55556b96458ab7ed3847e4917",
+            "path": "resourcepacks/waystones_1.20.zip"
           }
         },
         {
@@ -2483,14 +2450,25 @@
           }
         },
         {
-          "id": "Stay_True_1.18.zip",
-          "name": "Stay_True_1.18.zip",
+          "id": "ComplementaryReimagined_r5.2.2.zip",
+          "name": "ComplementaryReimagined_r5.2.2.zip",
           "type": "File",
           "artifact": {
-            "size": 1998368,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/Stay_True_1.18.zip",
-            "MD5": "e38559747ff9984fedd851a977e92b7a",
-            "path": "Stay_True_1.18.zip"
+            "size": 441683,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.2.2.zip",
+            "MD5": "a0852d3fddaf2c7f957ad6e1b8624513",
+            "path": "shaderpacks/ComplementaryReimagined_r5.2.2.zip"
+          }
+        },
+        {
+          "id": "Insanity-Shader-Universal-v1.650.zip",
+          "name": "Insanity-Shader-Universal-v1.650.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1037373,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/shaderpacks/Insanity-Shader-Universal-v1.650.zip",
+            "MD5": "97a61aad0133f120e536a420b92d4e88",
+            "path": "shaderpacks/Insanity-Shader-Universal-v1.650.zip"
           }
         }
       ]
