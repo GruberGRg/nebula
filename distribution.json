@@ -13,7 +13,7 @@
       "description": "Cosmos Running Minecraft 1.20.1 (Forge v47.3.10)",
       "icon": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "ascenty-sp4-07.elgaehost.com.br:25570",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "Cosmos Roleplay",
@@ -2419,17 +2419,6 @@
             "size": 3673,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/options.txt",
             "path": "options.txt"
-          }
-        },
-        {
-          "id": "MandalasGUI+Dakmode_1.20.5.zip",
-          "name": "MandalasGUI+Dakmode_1.20.5.zip",
-          "type": "File",
-          "artifact": {
-            "size": 613907,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/resourcepacks/MandalasGUI+Dakmode_1.20.5.zip",
-            "MD5": "68c8bc0d1db51d73f588ed2658ff8f11",
-            "path": "resourcepacks/MandalasGUI+Dakmode_1.20.5.zip"
           }
         },
         {
