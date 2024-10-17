@@ -20,7 +20,7 @@
         "largeImageText": "À deriva!",
         "largeImageKey": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -1010,16 +1010,6 @@
             "size": 991552,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.9.jar",
             "MD5": "edc6083a1c68415b9635d68c7cdf7a99"
-          }
-        },
-        {
-          "id": "generated.forgemod:gigeresque:connector-1.20.1-0.5.71@jar",
-          "name": "Gigeresque",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3007021,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/gigeresque-connector-1.20.1-0.5.71.jar",
-            "MD5": "58c512a1844dd2a9159bc08e72b101c8"
           }
         },
         {
@@ -2416,7 +2406,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3673,
+            "size": 3534,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/files/options.txt",
             "path": "options.txt"
           }
