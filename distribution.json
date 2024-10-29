@@ -863,16 +863,6 @@
           }
         },
         {
-          "id": "de.markusbordihn.easynpc:easy_npc:5.6.0@jar",
-          "name": "Easy NPC",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1478747,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/easy_npc-forge-1.20.1-5.6.0.jar",
-            "MD5": "6d95dbed149132bd15fbed1e9de50229"
-          }
-        },
-        {
           "id": "xyz.vsngamer:elevatorid:1.20.1-lex-1.9@jar",
           "name": "Elevator Mod",
           "type": "ForgeMod",
