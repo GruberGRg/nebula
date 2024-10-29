@@ -473,6 +473,26 @@
           }
         },
         {
+          "id": "team.creative:ambientsounds:6.1.3@jar",
+          "name": "AmbientSounds",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 83885723,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/AmbientSounds_FORGE_v6.1.3_mc1.20.1.jar",
+            "MD5": "7d4d3ce7c0dae172a06235fceb47a6af"
+          }
+        },
+        {
+          "id": "apollyon:apollyon:1.1.1@jar",
+          "name": "Apollyon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9909815,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Apollyon%20v1.1.1%20(Forge%201.20.1).jar",
+            "MD5": "3ffb8d6b79302fbbb16ef921f017fa59"
+          }
+        },
+        {
           "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
           "name": "AppleSkin",
           "type": "ForgeMod",
@@ -630,6 +650,16 @@
             "size": 439457,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
             "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
+          }
+        },
+        {
+          "id": "de.cadentem:cave_dweller:1.6.4@jar",
+          "name": "Cave_dweller",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 637026,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/cave_dweller-1.20.1-1.6.4.jar",
+            "MD5": "c88384d2a833294c18844e9934f8e327"
           }
         },
         {
@@ -793,6 +823,16 @@
           }
         },
         {
+          "id": "noppes.npcs:customnpcs:1.20.1.20240824@jar",
+          "name": "Custom NPCs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10773118,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/CustomNPCs-1.20.1-GBPort-Unofficial-20240824.jar",
+            "MD5": "c8572b478b38bfa68eefc361cbc8e1c9"
+          }
+        },
+        {
           "id": "com.tom:cpm:0.6.19a@jar",
           "name": "Customizable Player Models",
           "type": "ForgeMod",
@@ -800,6 +840,16 @@
             "size": 2745573,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/CustomPlayerModels-1.20-0.6.19a.jar",
             "MD5": "185bd8e6ec8776912a158cc524b2a6c7"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:dummmmmmy:1.20-2.0.2@jar",
+          "name": "MmmMmmMmmmmm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 360106,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/dummmmmmy-1.20-2.0.2.jar",
+            "MD5": "5ed70d08eae8d82ea46de8384c48d170"
           }
         },
         {
@@ -890,6 +940,16 @@
             "size": 982405,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/epicpaladins-0.1.1-1.20.1-forge.jar",
             "MD5": "c4a652df82d80cef75799bf62f414e6e"
+          }
+        },
+        {
+          "id": "com.esm.nightmare:nightmareesm:1.0.0@jar",
+          "name": "Nightmare Epic Siege Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 62060,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/ESM-1.20.1-1.0.0.jar",
+            "MD5": "65948da7a4172472f4929a97372c5b89"
           }
         },
         {
@@ -1063,6 +1123,16 @@
           }
         },
         {
+          "id": "net.mcreator:intensehorror:1.0@jar",
+          "name": "Intense Horror",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 35580775,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/IntenseHorror-forge-1.20.1-1.1.1.jar",
+            "MD5": "6cc860b3266bd1e4c11b9d22656637bf"
+          }
+        },
+        {
           "id": "ironfurnaces:ironfurnaces:4.1.6@jar",
           "name": "Iron Furnaces",
           "type": "ForgeMod",
@@ -1183,13 +1253,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.1@jar",
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.18@jar",
           "name": "Moonlight Library",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1184125,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/moonlight-1.20-2.13.1-forge.jar",
-            "MD5": "e5b7869f6b85e4aebefcb87b5499b17c"
+            "size": 1190062,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/moonlight-1.20-2.13.18-forge.jar",
+            "MD5": "48d1247a099956b5078c52c05fe3c8bf"
           }
         },
         {
@@ -1270,6 +1340,16 @@
             "size": 589055,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Paraglider-forge-20.1.3.jar",
             "MD5": "35eba1f897eb09eaff91579d65696565"
+          }
+        },
+        {
+          "id": "net.mcreator.peepingtom:peeping_tom:1.0.0@jar",
+          "name": "Peeping Tom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2200697,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/PeepingTom-forge-1.20.1-1.4.jar",
+            "MD5": "cc3d2a885eb466d606c0377b69b1e9f1"
           }
         },
         {
@@ -1433,6 +1513,16 @@
           }
         },
         {
+          "id": "net.meme.sirenhead:siren_head:1.1.4@jar",
+          "name": "Siren Head",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11279970,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Siren_head%20v1.1.4-1.20.1.jar",
+            "MD5": "ef6562c81e0f27f076de493dc336305f"
+          }
+        },
+        {
           "id": "net.mcreator.sleepkiller:sleep_killer:1.0.0@jar",
           "name": "Sleep killer",
           "type": "ForgeMod",
@@ -1520,6 +1610,26 @@
             "size": 3156901,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Terralith_1.20.x_v2.5.4.jar",
             "MD5": "b143cfd648086c68d7f47a86b8994ee3"
+          }
+        },
+        {
+          "id": "net.mcreator:thalassophobia:1.0.0@jar",
+          "name": "Thalassophobia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 961824,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Thalassophobia-forge-1.20.1-1.0.jar",
+            "MD5": "5af554db9813575da00cc22d8101539f"
+          }
+        },
+        {
+          "id": "net.mcreator.theoldai:the_old_ai:1.0.0@jar",
+          "name": "The Old AI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 923090,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/TheOldAI-forge-1.20.1-1.2.jar",
+            "MD5": "eb38c6500bfeb7e13dd8449f11ba56e2"
           }
         },
         {
