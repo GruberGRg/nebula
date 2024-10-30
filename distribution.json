@@ -713,16 +713,6 @@
           }
         },
         {
-          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
-          "name": "Connector",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5043384,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
-            "MD5": "3c07e0a25c1921da7586c0290c72ba86"
-          }
-        },
-        {
           "id": "de.maxhenkel:corpse:1.20.1-1.0.14@jar",
           "name": "Corpse",
           "type": "ForgeMod",
