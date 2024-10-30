@@ -823,16 +823,6 @@
           }
         },
         {
-          "id": "noppes.npcs:customnpcs:1.20.1.20240824@jar",
-          "name": "Custom NPCs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10773118,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/CustomNPCs-1.20.1-GBPort-Unofficial-20240824.jar",
-            "MD5": "c8572b478b38bfa68eefc361cbc8e1c9"
-          }
-        },
-        {
           "id": "com.tom:cpm:0.6.19a@jar",
           "name": "Customizable Player Models",
           "type": "ForgeMod",
@@ -860,6 +850,16 @@
             "size": 8762342,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/DungeonsArise-1.20.x-2.1.58-release.jar",
             "MD5": "6ac48d0cf2ce763824f96f6d26963219"
+          }
+        },
+        {
+          "id": "de.markusbordihn.easynpc:easy_npc:5.7.2@jar",
+          "name": "Easy NPC",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1534077,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/easy_npc-forge-1.20.1-5.7.2.jar",
+            "MD5": "8cfac760d3771f7640942c8846d1bbee"
           }
         },
         {
