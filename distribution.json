@@ -483,16 +483,6 @@
           }
         },
         {
-          "id": "apollyon:apollyon:1.1.1@jar",
-          "name": "Apollyon",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9909815,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Apollyon%20v1.1.1%20(Forge%201.20.1).jar",
-            "MD5": "3ffb8d6b79302fbbb16ef921f017fa59"
-          }
-        },
-        {
           "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
           "name": "AppleSkin",
           "type": "ForgeMod",
@@ -650,16 +640,6 @@
             "size": 439457,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
             "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
-          }
-        },
-        {
-          "id": "de.cadentem:cave_dweller:1.6.4@jar",
-          "name": "Cave_dweller",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 637026,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/cave_dweller-1.20.1-1.6.4.jar",
-            "MD5": "c88384d2a833294c18844e9934f8e327"
           }
         },
         {
@@ -920,16 +900,6 @@
             "size": 982405,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/epicpaladins-0.1.1-1.20.1-forge.jar",
             "MD5": "c4a652df82d80cef75799bf62f414e6e"
-          }
-        },
-        {
-          "id": "com.esm.nightmare:nightmareesm:1.0.0@jar",
-          "name": "Nightmare Epic Siege Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 62060,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/ESM-1.20.1-1.0.0.jar",
-            "MD5": "65948da7a4172472f4929a97372c5b89"
           }
         },
         {
@@ -1570,26 +1540,6 @@
             "size": 3156901,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Terralith_1.20.x_v2.5.4.jar",
             "MD5": "b143cfd648086c68d7f47a86b8994ee3"
-          }
-        },
-        {
-          "id": "net.mcreator:thalassophobia:1.0.0@jar",
-          "name": "Thalassophobia",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 961824,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Thalassophobia-forge-1.20.1-1.0.jar",
-            "MD5": "5af554db9813575da00cc22d8101539f"
-          }
-        },
-        {
-          "id": "net.mcreator.theoldai:the_old_ai:1.0.0@jar",
-          "name": "The Old AI",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 923090,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/TheOldAI-forge-1.20.1-1.2.jar",
-            "MD5": "eb38c6500bfeb7e13dd8449f11ba56e2"
           }
         },
         {
