@@ -453,16 +453,6 @@
           }
         },
         {
-          "id": "com.github.alexmodguy:alexscaves:2.0.2@jar",
-          "name": "Alex's Caves",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 74871657,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/alexscaves-2.0.2.jar",
-            "MD5": "6c8793ee5e1aa852fdb430a9cdaccdc5"
-          }
-        },
-        {
           "id": "com.github.alexthe666:alexsmobs:1.22.9@jar",
           "name": "Alex's Mobs",
           "type": "ForgeMod",
@@ -803,6 +793,16 @@
           }
         },
         {
+          "id": "nl.enjarai.doabarrelroll:do_a_barrel_roll:3.5.6+1.20.1@jar",
+          "name": "Do a Barrel Roll",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 625488,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+            "MD5": "6abd43d0aed2c1823718e228006669c6"
+          }
+        },
+        {
           "id": "net.mehvahdjukaar:dummmmmmy:1.20-2.0.2@jar",
           "name": "MmmMmmMmmmmm",
           "type": "ForgeMod",
@@ -880,6 +880,26 @@
             "size": 1208062,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/endermanoverhaul-forge-1.20.1-1.0.4.jar",
             "MD5": "992f4f6fad129c6ff47b33b0365d485a"
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:2.2.6@jar",
+          "name": "Entity Model Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 432658,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/entity_model_features_forge_1.20.1-2.2.6.jar",
+            "MD5": "118d42d08d594180f901ad5881a10541"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:6.2.7@jar",
+          "name": "Entity Texture Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 671687,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/entity_texture_features_forge_1.20.1-6.2.7.jar",
+            "MD5": "ef75d8f1d5117154ced72c451ef0dacc"
           }
         },
         {
@@ -1143,6 +1163,16 @@
           }
         },
         {
+          "id": "net.leawind.mc.forge.thirdperson:leawind_third_person:2.1.0@jar",
+          "name": "Leawind's Third Person",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 331132,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/leawind_third_person-v2.1.0-mc1.20.1-forge.jar",
+            "MD5": "8fe6bcf0daf73b604b14cef10b844f29"
+          }
+        },
+        {
           "id": "net.miauczel:legendary_monsters:1.20.1@jar",
           "name": "LegendaryMonsters",
           "type": "ForgeMod",
@@ -1390,6 +1420,16 @@
             "size": 2064100,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/RakeArrival-forge-1.20.1-1.1.jar",
             "MD5": "6f0098049586ada045e05bfdd0a2d180"
+          }
+        },
+        {
+          "id": "com.replaymod.core:reforgedplaymod:0.3.1@jar",
+          "name": "ReForgedPlay Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16661938,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/reforgedplaymod-1.20.1-0.3.1.jar",
+            "MD5": "a1fe7a8cba5fec900fb61689fb67fb74"
           }
         },
         {
