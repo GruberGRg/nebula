@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1293665633313226752",
+    "smallImageText": "Cosmos Roleplay",
+    "smallImageKey": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png"
   },
   "servers": [
     {
@@ -13,12 +13,12 @@
       "description": "Cosmos Running Minecraft 1.20.1 (Forge v47.3.10)",
       "icon": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "ascenty-sp4-07.elgaehost.com.br:25570",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "Cosmos Roleplay",
+        "largeImageText": "À deriva!",
+        "largeImageKey": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -450,6 +450,16 @@
             "size": 7461158,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/ad_astra-forge-1.20.1-1.15.18.jar",
             "MD5": "00ee970a2bfaf1a71ab0328929cb09fa"
+          }
+        },
+        {
+          "id": "com.github.alexmodguy:alexscaves:2.0.2@jar",
+          "name": "Alex's Caves",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 74871657,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/alexscaves-2.0.2.jar",
+            "MD5": "6c8793ee5e1aa852fdb430a9cdaccdc5"
           }
         },
         {
