@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1293665633313226752",
-    "smallImageText": "Cosmos Roleplay",
-    "smallImageKey": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
@@ -13,12 +13,12 @@
       "description": "Cosmos Running Minecraft 1.20.1 (Forge v47.3.10)",
       "icon": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png",
       "version": "1.0.0",
-      "address": "ascenty-sp4-07.elgaehost.com.br:25570",
+      "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "Cosmos Roleplay",
-        "largeImageText": "À deriva!",
-        "largeImageKey": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png"
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -453,13 +453,23 @@
           }
         },
         {
-          "id": "com.github.alexmodguy:alexscaves:2.0.2@jar",
+          "id": "net.mcreator.alexscavestorpedoes:alexscaves_torpedoes:1.0.2@jar",
+          "name": "Alex's Caves: Stuff & Torpedoes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1173231,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/alexscaves_torpedoes-1.0.2.jar",
+            "MD5": "782b87c40c4c52e53bf1d6bb93712cbb"
+          }
+        },
+        {
+          "id": "com.github.alexmodguy:alexscaves:1.1.5@jar",
           "name": "Alex's Caves",
           "type": "ForgeMod",
           "artifact": {
-            "size": 74871657,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/alexscaves-2.0.2.jar",
-            "MD5": "6c8793ee5e1aa852fdb430a9cdaccdc5"
+            "size": 61610911,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/alexscaves-1.1.5.jar",
+            "MD5": "3a487a571b8cc74743a3e0b7ef24acb2"
           }
         },
         {
