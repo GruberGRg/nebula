@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1293665633313226752",
-    "smallImageText": "Cosmos Roleplay",
-    "smallImageKey": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
@@ -13,12 +13,12 @@
       "description": "Cosmos Running Minecraft 1.20.1 (Forge v47.3.10)",
       "icon": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png",
       "version": "1.0.0",
-      "address": "ascenty-sp4-07.elgaehost.com.br:25570",
+      "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "Cosmos Roleplay",
-        "largeImageText": "À deriva!",
-        "largeImageKey": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png"
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -433,23 +433,23 @@
           ]
         },
         {
-          "id": "net.geforcemods:securitycraft:1.9.10@jar",
+          "id": "net.geforcemods:securitycraft:1.9.11@jar",
           "name": "SecurityCraft",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4407575,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/[1.20.1]%20SecurityCraft%20v1.9.10.jar",
-            "MD5": "89411276ef9c81550dd8b5821fa9412a"
+            "size": 4542674,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/[1.20.1]%20SecurityCraft%20v1.9.11.jar",
+            "MD5": "2d2ca3a3b68032ac81ecb90627b4cd4f"
           }
         },
         {
-          "id": "earth.terrarium.adastra:ad_astra:1.15.18@jar",
+          "id": "earth.terrarium:ad_astra:1.15.5@jar",
           "name": "Ad Astra",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7461158,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/ad_astra-forge-1.20.1-1.15.18.jar",
-            "MD5": "00ee970a2bfaf1a71ab0328929cb09fa"
+            "size": 10073564,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/ad_astra-forge-1.20.1-1.15.5.jar",
+            "MD5": "8333d0a1ee3dd027b4f415de9efb505d"
           }
         },
         {
@@ -533,16 +533,6 @@
           }
         },
         {
-          "id": "mod.azure:azurelib:2.0.37@jar",
-          "name": "AzureLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 753224,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/azurelib-neo-1.20.1-2.0.37.jar",
-            "MD5": "e059338810100a78a815ce17cfd96da4"
-          }
-        },
-        {
           "id": "net.darkhax:badmobs:19.0.4@jar",
           "name": "BadMobs",
           "type": "ForgeMod",
@@ -573,33 +563,13 @@
           }
         },
         {
-          "id": "net.mcreator:blanketghost:1.0.0@jar",
-          "name": "BlanketGhost",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 452921,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/BlanketGhost-forge-1.20.1-1.2.jar",
-            "MD5": "668b39d359422448a7cd0c0bec2064a6"
-          }
-        },
-        {
-          "id": "net.mcreator:boh:0.0.7@jar",
-          "name": "Box of Horrors",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 28030939,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/boh-0.0.7-forge-1.20.1.jar",
-            "MD5": "22c88230a14651c0b251bca49fd0dad3"
-          }
-        },
-        {
-          "id": "net.mcreator.borninchaosv:born_in_chaos_v1:1.4@jar",
+          "id": "net.mcreator.borninchaosv:born_in_chaos_v1:1.5.2@jar",
           "name": "Born in Chaos ",
           "type": "ForgeMod",
           "artifact": {
-            "size": 10802683,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.5_halloween_event.jar",
-            "MD5": "2108190e0d6eed2724c2474e67ffcbf9"
+            "size": 10803862,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.5.2.jar",
+            "MD5": "ea63771713891d0a41e50b72335fcad7"
           }
         },
         {
@@ -623,13 +593,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:camera:1.20.1-1.0.14@jar",
+          "id": "de.maxhenkel:camera:1.20.1-1.0.19@jar",
           "name": "Camera Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 299536,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/camera-forge-1.20.1-1.0.14.jar",
-            "MD5": "23c914ade1190fcea976dea4b1b1ff07"
+            "size": 300166,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/camera-forge-1.20.1-1.0.19.jar",
+            "MD5": "0b3a8abb44e6f67fedd25a4c0387ace3"
           }
         },
         {
@@ -643,13 +613,13 @@
           }
         },
         {
-          "id": "earth.terrarium:chipped:3.0.6@jar",
+          "id": "earth.terrarium:chipped:3.0.7@jar",
           "name": "Chipped",
           "type": "ForgeMod",
           "artifact": {
-            "size": 15060040,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Chipped-forge-1.20.1-3.0.6.jar",
-            "MD5": "5a9884538e222ff0b47ec860cd050885"
+            "size": 15060263,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/chipped-forge-1.20.1-3.0.7.jar",
+            "MD5": "c6c76e78805b357757bf47b04c7286e7"
           }
         },
         {
@@ -693,33 +663,23 @@
           }
         },
         {
-          "id": "de.maxhenkel:corpse:1.20.1-1.0.14@jar",
+          "id": "de.maxhenkel:corpse:1.20.1-1.0.17@jar",
           "name": "Corpse",
           "type": "ForgeMod",
           "artifact": {
-            "size": 243748,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.14.jar",
-            "MD5": "a6f4636df407761c177fab2d485280cf"
+            "size": 244310,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.17.jar",
+            "MD5": "46779c77c83adf305237e489d46e566f"
           }
         },
         {
-          "id": "dev.lucaargolo:cosmosshop:1.0.0@jar",
-          "name": "CosmosShop",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 126867,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/cosmosshop-1.0.0-client.jar",
-            "MD5": "06bf40cad32e8788bb5e125fd48a5f1d"
-          }
-        },
-        {
-          "id": "com.blamejared:crafttweaker:14.0.43@jar",
+          "id": "com.blamejared:crafttweaker:14.0.44@jar",
           "name": "CraftTweaker",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3260628,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/CraftTweaker-forge-1.20.1-14.0.43.jar",
-            "MD5": "5341b41fe4d36e86aa63f6bb9dbb8a1a"
+            "size": 3261038,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/CraftTweaker-forge-1.20.1-14.0.44.jar",
+            "MD5": "18280ab72c8bc5a41759880aa61b9f67"
           }
         },
         {
@@ -733,23 +693,23 @@
           }
         },
         {
-          "id": "com.simibubi:create:0.5.1.h@jar",
+          "id": "com.simibubi:create:0.5.1.j@jar",
           "name": "Create",
           "type": "ForgeMod",
           "artifact": {
-            "size": 15577849,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/create-1.20.1-0.5.1.h.jar",
-            "MD5": "edd670404374248e3529f4765d1f2dcb"
+            "size": 15583566,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/create-1.20.1-0.5.1.j.jar",
+            "MD5": "db945b2441efa1a136d3f86126a6f813"
           }
         },
         {
-          "id": "team.creative:creativecore:2.12.15@jar",
+          "id": "team.creative:creativecore:2.12.22@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1144776,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.15_mc1.20.1.jar",
-            "MD5": "1efbdfbc5e122e03b31d1428b74212af"
+            "size": 1146751,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.22_mc1.20.1.jar",
+            "MD5": "a3b5e6181236c69e1bd963db2a1865de"
           }
         },
         {
@@ -763,16 +723,6 @@
           }
         },
         {
-          "id": "net.mcreator.thecuckooclock:the_cuckoo_clock:1.0.0@jar",
-          "name": "The Cuckoo Clock",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 959625,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/CuckooClock-forge-1.20.1-1.9.jar",
-            "MD5": "f828c7a92546409fd88d29cadcca7a81"
-          }
-        },
-        {
           "id": "com.cupboard:cupboard:1.20.1-2.7@jar",
           "name": "Cupboard utilities",
           "type": "ForgeMod",
@@ -783,13 +733,13 @@
           }
         },
         {
-          "id": "top.theillusivec4:curios:5.10.0+1.20.1@jar",
+          "id": "top.theillusivec4:curios:5.11.0+1.20.1@jar",
           "name": "Curios API",
           "type": "ForgeMod",
           "artifact": {
-            "size": 384929,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/curios-forge-5.10.0+1.20.1.jar",
-            "MD5": "73c3942efd83fdfe91c781f3e4119714"
+            "size": 389988,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/curios-forge-5.11.0+1.20.1.jar",
+            "MD5": "9d752b17b0e6d1e9cfe3ea3a230aaba1"
           }
         },
         {
@@ -800,16 +750,6 @@
             "size": 2745573,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/CustomPlayerModels-1.20-0.6.19a.jar",
             "MD5": "185bd8e6ec8776912a158cc524b2a6c7"
-          }
-        },
-        {
-          "id": "nl.enjarai.doabarrelroll:do_a_barrel_roll:3.5.6+1.20.1@jar",
-          "name": "Do a Barrel Roll",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 625488,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
-            "MD5": "6abd43d0aed2c1823718e228006669c6"
           }
         },
         {
@@ -933,53 +873,23 @@
           }
         },
         {
-          "id": "com.podloot:eyemod:3.0.0@jar",
-          "name": "EyeMod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 432098,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/eyemod-3.0.0.jar",
-            "MD5": "e977511b6f65d208ea8889205c9f48e1"
-          }
-        },
-        {
-          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.2+1.11.8+1.20.1@jar",
-          "name": "Forgified Fabric API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3041071,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.8+1.20.1.jar",
-            "MD5": "7217481b8e9f40ac27273c1b5df0feb3"
-          }
-        },
-        {
-          "id": "de.keksuccino:fancymenu:3.2.3@jar",
+          "id": "de.keksuccino:fancymenu:3.3.2@jar",
           "name": "FancyMenu",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2696876,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/fancymenu_forge_3.2.3_MC_1.20.1.jar",
-            "MD5": "ac238a3496ff4d386a148fb06ca6a116"
+            "size": 2897882,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/fancymenu_forge_3.3.2_MC_1.20.1.jar",
+            "MD5": "a362aedda7626827587c445d2e28d3f5"
           }
         },
         {
-          "id": "generated.forgemod:cavernous:2.1.3@jar",
-          "name": "Fantastic Biomes Cave",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2934006,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Fantactic%20Biomes%20Cave%202.1.3%201.20+1.20.4-for+fab.jar",
-            "MD5": "75399cd11e28e596a7cea8c9f5a3b07f"
-          }
-        },
-        {
-          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.4@jar",
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.5@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2915349,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.4.jar",
-            "MD5": "5b6bee961b278a3edd6e3935b061fbaa"
+            "size": 2937836,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.5.jar",
+            "MD5": "a5affe1dbf62a5bed405cdf6533e96a4"
           }
         },
         {
@@ -1003,23 +913,23 @@
           }
         },
         {
-          "id": "xfacthd.framedblocks:framedblocks:9.3.0@jar",
+          "id": "xfacthd.framedblocks:framedblocks:9.3.1@jar",
           "name": "FramedBlocks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4117574,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/FramedBlocks-9.3.0.jar",
-            "MD5": "ab2d69696c28b1adab91d79bc70e0da4"
+            "size": 4190330,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/FramedBlocks-9.3.1.jar",
+            "MD5": "b367304b99c729d267fc294d014af9c5"
           }
         },
         {
-          "id": "com.mrcrayfish:framework:0.7.8@jar",
+          "id": "com.mrcrayfish:framework:0.7.11@jar",
           "name": "Framework",
           "type": "ForgeMod",
           "artifact": {
-            "size": 303364,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.8.jar",
-            "MD5": "f09ed1192f54995c6d1b0936e7c540fa"
+            "size": 306415,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.11.jar",
+            "MD5": "7ea052b89d9baad7830aca120b492ffd"
           }
         },
         {
@@ -1033,23 +943,23 @@
           }
         },
         {
-          "id": "dev.ftb.mods:ftblibrary:2001.2.4@jar",
+          "id": "dev.ftb.mods:ftblibrary:2001.2.5@jar",
           "name": "FTB Library",
           "type": "ForgeMod",
           "artifact": {
-            "size": 791152,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/ftb-library-forge-2001.2.4.jar",
-            "MD5": "e60f8af3ffa7cb3ccffee661efa5de15"
+            "size": 791175,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/ftb-library-forge-2001.2.5.jar",
+            "MD5": "c6fbbd29fd928a9c41f1e960fa15eddd"
           }
         },
         {
-          "id": "dev.ftb.mods:ftbquests:2001.4.8@jar",
+          "id": "dev.ftb.mods:ftbquests:2001.4.9@jar",
           "name": "FTB Quests",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1181709,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/ftb-quests-forge-2001.4.8.jar",
-            "MD5": "74c500cb0ac713642b0dbc8602f858aa"
+            "size": 1183769,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/ftb-quests-forge-2001.4.9.jar",
+            "MD5": "7bfa68ae939f181e7be4dc87485f4332"
           }
         },
         {
@@ -1113,13 +1023,13 @@
           }
         },
         {
-          "id": "net.mcreator.horrrspvz:horrrs_pvz:1.0.9@jar",
+          "id": "net.mcreator.horrrspvz:horrrs_pvz:1.22@jar",
           "name": "Horrrs pvz",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1811032,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/horrrs_pvz-1.0.9-forge-1.20.1.jar",
-            "MD5": "b654620f8eaaf5fab3f333310a9930de"
+            "size": 2514441,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/horrrs_pvz-1.22-forge-1.20.1.jar",
+            "MD5": "56d1d17209aad50d0e59f69ae2684076"
           }
         },
         {
@@ -1143,23 +1053,23 @@
           }
         },
         {
-          "id": "mezz.jei:jei:15.19.5.99@jar",
+          "id": "mezz.jei:jei:15.12.2.51@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1385057,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/jei-1.20.1-forge-15.19.5.99.jar",
-            "MD5": "6e32a2e00fedbe4d23947e386513f239"
+            "size": 1343395,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/jei-1.20.1-forge-15.12.2.51.jar",
+            "MD5": "4500381fa9b095a7d41929fc443c31c1"
           }
         },
         {
-          "id": "journeymap:journeymap:5.10.2@jar",
+          "id": "journeymap:journeymap:5.10.3@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7160409,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/journeymap-1.20.1-5.10.2-forge.jar",
-            "MD5": "44e147c23e0e58677a2135897b36d250"
+            "size": 7160405,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "MD5": "2181bd6b7161f06726560b9382235611"
           }
         },
         {
@@ -1173,16 +1083,6 @@
           }
         },
         {
-          "id": "net.leawind.mc.forge.thirdperson:leawind_third_person:2.1.0@jar",
-          "name": "Leawind's Third Person",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 331132,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/leawind_third_person-v2.1.0-mc1.20.1-forge.jar",
-            "MD5": "8fe6bcf0daf73b604b14cef10b844f29"
-          }
-        },
-        {
           "id": "net.miauczel:legendary_monsters:1.20.1@jar",
           "name": "LegendaryMonsters",
           "type": "ForgeMod",
@@ -1190,16 +1090,6 @@
             "size": 2920093,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/legendarymonsters-1.4.6%20MC%201.20.1.jar",
             "MD5": "f17d5a0f9d49319529b8b09934256a2c"
-          }
-        },
-        {
-          "id": "com.jtorleonstudios:libraryferret:4.0.0@jar",
-          "name": "Library ferret",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 190536,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/libraryferret-forge-1.20.1-4.0.0.jar",
-            "MD5": "68ba05aaf09f053934537af691e959df"
           }
         },
         {
@@ -1243,23 +1133,13 @@
           }
         },
         {
-          "id": "generated.forgemod:mobedit:1.0.0@jar",
-          "name": "Mobedit",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 76952,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/mobedit-1.0.0.jar",
-            "MD5": "756e372b1d1a3e4dfeb4c939a6a1f3d2"
-          }
-        },
-        {
-          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.19.4+mc1.20.1@jar",
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.19.5+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
           "artifact": {
-            "size": 778504,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/modernfix-forge-5.19.4+mc1.20.1.jar",
-            "MD5": "359e779ab4f91fa48f1b1aab0dfb0821"
+            "size": 778617,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/modernfix-forge-5.19.5+mc1.20.1.jar",
+            "MD5": "23d4aa0c5cdec95eeadf3a6ce12f610f"
           }
         },
         {
@@ -1273,13 +1153,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.18@jar",
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.25@jar",
           "name": "Moonlight Library",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1190062,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/moonlight-1.20-2.13.18-forge.jar",
-            "MD5": "48d1247a099956b5078c52c05fe3c8bf"
+            "size": 1201688,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/moonlight-1.20-2.13.25-forge.jar",
+            "MD5": "3f6f146d71c1f2969eda89270f016b2b"
           }
         },
         {
@@ -1290,16 +1170,6 @@
             "size": 76237,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
             "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
-          }
-        },
-        {
-          "id": "elocindev.necronomicon:necronomicon:1.4.2@jar",
-          "name": "Necronomicon",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 45990,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Necronomicon-Forge-1.4.2.jar",
-            "MD5": "eb68ab883d5b22f20005f1a865c03652"
           }
         },
         {
@@ -1343,13 +1213,23 @@
           }
         },
         {
-          "id": "quantumxenon.origins_plus_plus:origins_plus_plus:2.2-forge@jar",
+          "id": "quantumxenon.origins_plus_plus:origins_plus_plus:2.3-forge@jar",
           "name": "Origins++",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1281010,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/origins-plus-plus-2.2-forge.jar",
-            "MD5": "d7213a48ddbdced0620e74572d5faf26"
+            "size": 1336992,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/origins-plus-plus-2.3-forge.jar",
+            "MD5": "d1e99ff14342384a8a61e2ada1777c57"
+          }
+        },
+        {
+          "id": "dev.tonimatas:packetfixer:1.4.2@jar",
+          "name": "Packet Fixer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22067,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/packetfixer-forge-1.4.2-1.19-to-1.20.1.jar",
+            "MD5": "7d9df4ab58a48eae97e3ac5279b50b76"
           }
         },
         {
@@ -1373,16 +1253,6 @@
           }
         },
         {
-          "id": "dev.shadowsoffire:placebo:8.6.2@jar",
-          "name": "Placebo",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 285351,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Placebo-1.20.1-8.6.2.jar",
-            "MD5": "0b7358e758257452184a3a8f82f60abe"
-          }
-        },
-        {
           "id": "dev.kosmx.playeranim:playeranimator:1.0.2-rc1+1.20@jar",
           "name": "Player Animator",
           "type": "ForgeMod",
@@ -1393,33 +1263,23 @@
           }
         },
         {
-          "id": "team.creative:playerrevive:2.0.27@jar",
+          "id": "team.creative:playerrevive:2.0.29@jar",
           "name": "PlayerRevive",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5297306,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/PlayerRevive_FORGE_v2.0.27_mc1.20.1.jar",
-            "MD5": "afe26f328a86df83c3ddc8bad3839226"
+            "size": 5296891,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/PlayerRevive_FORGE_v2.0.29_mc1.20.1.jar",
+            "MD5": "f0667f6585ee50beee8ff685e51b2ab4"
           }
         },
         {
-          "id": "net.mcreator.protectionpixel:protection_pixel:1.0.5@jar",
+          "id": "net.mcreator.protectionpixel:protection_pixel:1.0.9@jar",
           "name": "Protection Pixel",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2112790,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/protection_pixel-1.0.5-forge-1.20.1.jar",
-            "MD5": "ddd5fbed6623e8d12415eb0b51a44fd0"
-          }
-        },
-        {
-          "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.23@jar",
-          "name": "Puzzles Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1002231,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/PuzzlesLib-v8.1.23-1.20.1-Forge.jar",
-            "MD5": "02b46fc0be5c865434ff6023f6a2f094"
+            "size": 2122126,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/protection_pixel-1.0.9-forge-1.20.1.jar",
+            "MD5": "fb7d33e648f780bdfe2c01520701f876"
           }
         },
         {
@@ -1427,29 +1287,19 @@
           "name": "Rake: The Arrival",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2064100,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/RakeArrival-forge-1.20.1-1.1.jar",
-            "MD5": "6f0098049586ada045e05bfdd0a2d180"
+            "size": 2065257,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/RakeArrival-forge-1.20.1-1.2.jar",
+            "MD5": "f698e45d8ab6c8d2bc15c69fe74c7377"
           }
         },
         {
-          "id": "com.replaymod.core:reforgedplaymod:0.3.1@jar",
-          "name": "ReForgedPlay Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 16661938,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/reforgedplaymod-1.20.1-0.3.1.jar",
-            "MD5": "a1fe7a8cba5fec900fb61689fb67fb74"
-          }
-        },
-        {
-          "id": "com.mrcrayfish.furniture.refurbished:refurbished_furniture:1.0.6@jar",
+          "id": "com.mrcrayfish.furniture.refurbished:refurbished_furniture:1.0.8@jar",
           "name": "MrCrayfish's Furniture Mod: Refurbished",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6672026,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.6.jar",
-            "MD5": "30c7445ef556c90404fab80ea5952aac"
+            "size": 6681214,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.8.jar",
+            "MD5": "135e50d0323ff403e7771649419bc69d"
           }
         },
         {
@@ -1493,16 +1343,6 @@
           }
         },
         {
-          "id": "croissantnova.sanitydim:sanitydim:1.1.0@jar",
-          "name": "Sanity: Descent Into Madness",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6052841,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/sanitydim-mc1.20-1.1.0.jar",
-            "MD5": "643c8a765f9db2a6d105592ebfa8dddf"
-          }
-        },
-        {
           "id": "top.ribs:scguns:0.3.2.5@jar",
           "name": "Scorched Guns",
           "type": "ForgeMod",
@@ -1510,16 +1350,6 @@
             "size": 11216197,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/ScorchedGuns-0.3.6-1.20.1.jar",
             "MD5": "0ad4c0894dbb34f1e7d13340e14b2b1c"
-          }
-        },
-        {
-          "id": "net.mcreator.thesculpture:the_sculpture:1.0.0@jar",
-          "name": "The Sculpture",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 872691,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Sculpture-forge-1.20.1-1.7.3.jar",
-            "MD5": "4954bc3216459d78c7d5bae05ba80b1a"
           }
         },
         {
@@ -1543,53 +1373,23 @@
           }
         },
         {
-          "id": "net.meme.sirenhead:siren_head:1.1.4@jar",
-          "name": "Siren Head",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11279970,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Siren_head%20v1.1.4-1.20.1.jar",
-            "MD5": "ef6562c81e0f27f076de493dc336305f"
-          }
-        },
-        {
-          "id": "net.mcreator.sleepkiller:sleep_killer:1.0.0@jar",
-          "name": "Sleep killer",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 353677,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/SleepKiller-forge-1.20.1-1.8.jar",
-            "MD5": "67b376e5bd5617fe56fa094384e7b5b7"
-          }
-        },
-        {
-          "id": "net.tslat:smartbrainlib:1.15@jar",
-          "name": "SmartBrainLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 362338,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/SmartBrainLib-forge-1.20.1-1.15.jar",
-            "MD5": "d5a060ce11b8c13268b821dfe5a936e4"
-          }
-        },
-        {
-          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.20.10.1109@jar",
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.20.12.1126@jar",
           "name": "Sophisticated Backpacks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 856255,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.20.10.1109.jar",
-            "MD5": "fbd062efabf385e3ed1eab645c5e5cb7"
+            "size": 860264,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.20.12.1126.jar",
+            "MD5": "d198c153b6ed36a46d723d538dc2435c"
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedcore:0.6.32.707@jar",
+          "id": "net.p3pp3rf1y:sophisticatedcore:0.7.3.764@jar",
           "name": "Sophisticated Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1083048,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.6.32.707.jar",
-            "MD5": "5dbdbb83ad1d76b33de88dfdeac387e8"
+            "size": 1103495,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.7.3.764.jar",
+            "MD5": "b4088ccd33996e35b0a62fdfb7c2edf5"
           }
         },
         {
@@ -1603,16 +1403,6 @@
           }
         },
         {
-          "id": "ca.spottedleaf:starlight:1.1.2+forge.1cda73c@jar",
-          "name": "Starlight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 110583,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/starlight-1.1.2+forge.1cda73c.jar",
-            "MD5": "da99a054428fb62342b6767b993c4c8d"
-          }
-        },
-        {
           "id": "net.mcreator:starvingskeleton:1.0.0@jar",
           "name": "StarvingSkeleton",
           "type": "ForgeMod",
@@ -1620,16 +1410,6 @@
             "size": 625152,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/StarvingSkeleton-forge-1.20.1-1.1.jar",
             "MD5": "e5e1c02168b765c2adcbfabf803be6fb"
-          }
-        },
-        {
-          "id": "com.faboslav:structurify:1.0.8@jar",
-          "name": "Structurify",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1317632,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/structurify-forge-mc1.20.1-1.0.8.jar",
-            "MD5": "a7b126301575692d425662ff191caf9f"
           }
         },
         {
@@ -1653,23 +1433,13 @@
           }
         },
         {
-          "id": "net.xalcon:torchmaster:20.1.8@jar",
+          "id": "net.xalcon:torchmaster:20.1.9@jar",
           "name": "Torchmaster",
           "type": "ForgeMod",
           "artifact": {
-            "size": 115216,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/torchmaster-20.1.8.jar",
-            "MD5": "3ad8551cc579daaa5f2d0a739bff93be"
-          }
-        },
-        {
-          "id": "net.blay09.mods:trashslot:15.1.0@jar",
-          "name": "TrashSlot",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 117737,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/trashslot-forge-1.20-15.1.0.jar",
-            "MD5": "4d17ab79f1432bb8edca90cea6f3dea5"
+            "size": 119348,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/torchmaster-20.1.9.jar",
+            "MD5": "5ccfbdd3ad8436df3b99967e746ac2cd"
           }
         },
         {
@@ -1713,33 +1483,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.5.22@jar",
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.25@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7726439,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.22.jar",
-            "MD5": "4b4f99aeaaf8d72f6740ba7b638ae023"
-          }
-        },
-        {
-          "id": "fr.flaton:walkietalkie:1.3.0@jar",
-          "name": "Walkie-Talkie",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 169451,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/walkietalkie-forge-1.20.1-1.3.0.jar",
-            "MD5": "232d0951cad33c7cd8a009d09accff1c"
-          }
-        },
-        {
-          "id": "net.mcreator:warleryshq:1.2.7@jar",
-          "name": "Warlery's HQ",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 48546210,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/warleryshq-1.2.7-forge-1.20.1.jar",
-            "MD5": "2c188d66e205cee499c10346fe349945"
+            "size": 7729000,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.25.jar",
+            "MD5": "1918cde5011e9870ac5c76dc473a794e"
           }
         },
         {
@@ -1763,13 +1513,13 @@
           }
         },
         {
-          "id": "net.blay09.mods:waystones:14.1.5@jar",
+          "id": "net.blay09.mods:waystones:14.1.6@jar",
           "name": "Waystones",
           "type": "ForgeMod",
           "artifact": {
-            "size": 483650,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/waystones-forge-1.20-14.1.5.jar",
-            "MD5": "0bbf1cf815b13131701815f92678610f"
+            "size": 484221,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/waystones-forge-1.20-14.1.6.jar",
+            "MD5": "c10d7e3725ec43c267871b783164e419"
           }
         },
         {
@@ -1783,53 +1533,13 @@
           }
         },
         {
-          "id": "tfar.xlpackets:xlpackets:1.18.2-2.1@jar",
-          "name": "XL Packets",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4786,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/xlpackets-1.18.2-2.1.jar",
-            "MD5": "ee7f9b5dec68637fb20ba3849b2bff10"
-          }
-        },
-        {
-          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.1+1.20.1-forge@jar",
-          "name": "YetAnotherConfigLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1173304,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/YetAnotherConfigLib-3.6.1+1.20.1-forge.jar",
-            "MD5": "9ec2a8bcd5036b4d7ef5e72af3d973ac"
-          }
-        },
-        {
-          "id": "elocindev.ysns:ysns:2.0.1@jar",
-          "name": "You Shall Not Spawn",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 218793,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/YouShallNotSpawn-forge-1.20.x-2.0.1.jar",
-            "MD5": "2c7d41f42cc8e4a63ccacecfc3821af1"
-          }
-        },
-        {
-          "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Forge-4.0.5@jar",
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Forge-4.0.6@jar",
           "name": "YUNG's API",
           "type": "ForgeMod",
           "artifact": {
-            "size": 365910,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.5.jar",
-            "MD5": "199469c1e63278dd21721860125e12ec"
-          }
-        },
-        {
-          "id": "com.yungnickyoung.minecraft:bettermineshafts:1.20-Forge-4.0.4@jar",
-          "name": "YUNG's Better Mineshafts",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 492998,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
-            "MD5": "fe8d205c98cb02840d46646fb7cf5ab8"
+            "size": 370524,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.6.jar",
+            "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c"
           }
         },
         {
