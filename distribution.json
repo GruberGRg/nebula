@@ -673,6 +673,16 @@
           }
         },
         {
+          "id": "dev.lucaargolo:cosmosshop:1.0.0@jar",
+          "name": "CosmosShop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 126867,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/cosmosshop-1.0.0-client.jar",
+            "MD5": "06bf40cad32e8788bb5e125fd48a5f1d"
+          }
+        },
+        {
           "id": "com.blamejared:crafttweaker:14.0.44@jar",
           "name": "CraftTweaker",
           "type": "ForgeMod",
