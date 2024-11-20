@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1293665633313226752",
+    "smallImageText": "Cosmos Roleplay",
+    "smallImageKey": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png"
   },
   "servers": [
     {
@@ -13,12 +13,12 @@
       "description": "Cosmos Running Minecraft 1.20.1 (Forge v47.3.10)",
       "icon": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "ascenty-sp4-07.elgaehost.com.br:25570",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "Cosmos Roleplay",
+        "largeImageText": "À deriva!",
+        "largeImageKey": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/SealCircle.png"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -533,16 +533,6 @@
           }
         },
         {
-          "id": "mod.azure:azurelib:2.0.39@jar",
-          "name": "AzureLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 752369,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/azurelib-neo-1.20.1-2.0.39.jar",
-            "MD5": "6fefc058f287755d44d657fdacb2347c"
-          }
-        },
-        {
           "id": "net.darkhax:badmobs:19.0.4@jar",
           "name": "BadMobs",
           "type": "ForgeMod",
@@ -670,16 +660,6 @@
             "size": 84340,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/connectivity-1.20.1-5.6.jar",
             "MD5": "55c2b3e2d8e562f218c843559cc846a1"
-          }
-        },
-        {
-          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
-          "name": "Connector",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5043384,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
-            "MD5": "3c07e0a25c1921da7586c0290c72ba86"
           }
         },
         {
@@ -903,16 +883,6 @@
           }
         },
         {
-          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.2+1.11.8+1.20.1@jar",
-          "name": "Forgified Fabric API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3041071,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.8+1.20.1.jar",
-            "MD5": "7217481b8e9f40ac27273c1b5df0feb3"
-          }
-        },
-        {
           "id": "de.keksuccino:fancymenu:3.3.2@jar",
           "name": "FancyMenu",
           "type": "ForgeMod",
@@ -1020,16 +990,6 @@
             "size": 991552,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.9.jar",
             "MD5": "edc6083a1c68415b9635d68c7cdf7a99"
-          }
-        },
-        {
-          "id": "generated.forgemod:gigeresque:connector-1.20.1-0.5.71@jar",
-          "name": "Gigeresque",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3007021,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/gigeresque-connector-1.20.1-0.5.71.jar",
-            "MD5": "58c512a1844dd2a9159bc08e72b101c8"
           }
         },
         {
@@ -1420,16 +1380,6 @@
             "size": 15202091,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/simplyswords-forge-1.56.0-1.20.1.jar",
             "MD5": "da155dc9ccd825f2a824532488675d85"
-          }
-        },
-        {
-          "id": "net.tslat:smartbrainlib:1.15@jar",
-          "name": "SmartBrainLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 362338,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/SmartBrainLib-forge-1.20.1-1.15.jar",
-            "MD5": "d5a060ce11b8c13268b821dfe5a936e4"
           }
         },
         {
