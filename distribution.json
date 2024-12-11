@@ -573,6 +573,16 @@
           }
         },
         {
+          "id": "net.mcreator:boh:0.0.7@jar",
+          "name": "Box of Horrors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 35466504,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/boh-0.0.7.1-forge-1.20.1.jar",
+            "MD5": "6eef7ba6928b7bc9da55c8598516ca78"
+          }
+        },
+        {
           "id": "net.mcreator.borninchaosv:born_in_chaos_v1:1.5.2@jar",
           "name": "Born in Chaos ",
           "type": "ForgeMod",
@@ -790,6 +800,16 @@
             "size": 2745573,
             "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/CustomPlayerModels-1.20-0.6.19a.jar",
             "MD5": "185bd8e6ec8776912a158cc524b2a6c7"
+          }
+        },
+        {
+          "id": "net.mcreator.deathangels:death_angels:1.2.4@jar",
+          "name": "Death Angels",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3400853,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/death_angels-1.2.4-forge-1.20.1.jar",
+            "MD5": "69b7389064c38e0fe3dd12f8322401f0"
           }
         },
         {
