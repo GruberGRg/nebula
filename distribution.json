@@ -663,6 +663,16 @@
           }
         },
         {
+          "id": "com.natamus:collective:7.87@jar",
+          "name": "Collective",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 648876,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/collective-1.20.1-7.87.jar",
+            "MD5": "b0bcc1d5e282bab76d0f8f39a85a1a92"
+          }
+        },
+        {
           "id": "com.craftjakob:configapi:1.20-2.3.2@jar",
           "name": "Config API",
           "type": "ForgeMod",
@@ -1673,13 +1683,13 @@
           }
         },
         {
-          "id": "com.refinedmods:refinedstorage:1.10.6@jar",
+          "id": "com.refinedmods:refinedstorage:1.12.4@jar",
           "name": "Refined Storage",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3252284,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/refinedstorage-1.10.6.jar",
-            "MD5": "136c375a8a1b3ee7053a0bc24761fe3c"
+            "size": 3300191,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/refinedstorage-1.12.4.jar",
+            "MD5": "aa6c64a4912eaef8478c5820fe03bbae"
           }
         },
         {
