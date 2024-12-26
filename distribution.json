@@ -1837,9 +1837,9 @@
           "name": "Spore",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12198061,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/spore_1.19.2_2.1.2.jar",
-            "MD5": "e7f10f7293b761313cc33576217c3c10"
+            "size": 12243322,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/spore_1.20.1_2.1.2.jar",
+            "MD5": "1af3da1f47557ebfe671e92f8eb70863"
           }
         },
         {
