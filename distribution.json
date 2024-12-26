@@ -1353,6 +1353,16 @@
           }
         },
         {
+          "id": "io.github.lightman314:lightmanscurrency:1.20.1-2.2.4.1b@jar",
+          "name": "Lightman's Currency",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6756721,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/lightmanscurrency-1.20.1-2.2.4.1b.jar",
+            "MD5": "63edb4844cda7d56724937b301cc701f"
+          }
+        },
+        {
           "id": "com.kotori316.limiter:limitmobspawn:20.1.1@jar",
           "name": "Limit Mob Spawn",
           "type": "ForgeMod",
