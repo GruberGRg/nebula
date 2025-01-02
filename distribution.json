@@ -703,13 +703,13 @@
           }
         },
         {
-          "id": "net.srvynicin:cosmos_lootbox:1.0-1.20.1@jar",
+          "id": "net.srvynicin:cosmos_lootbox:1.1-1.20.1@jar",
           "name": "Cosmos - Loot Box",
           "type": "ForgeMod",
           "artifact": {
-            "size": 54587,
-            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/cosmos_lootbox-1.0-1.20.1.jar",
-            "MD5": "b0318bd1951c98b83595d6ae33bc0df2"
+            "size": 54989,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/cosmos_lootbox-1.1-1.20.1.jar",
+            "MD5": "493464ccadf71864729543d714d0383e"
           }
         },
         {
