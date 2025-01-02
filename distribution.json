@@ -1183,6 +1183,16 @@
           }
         },
         {
+          "id": "immersive_melodies:immersive_melodies:0.3.0+1.20.1@jar",
+          "name": "Immersive Melodies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2563768,
+            "url": "https://grubergrg.github.io/nebula/servers/Cosmos-1.20.1/forgemods/required/immersive_melodies-0.3.0+1.20.1-forge.jar",
+            "MD5": "fff66337d25f8b14ba5bf57ea1d9b566"
+          }
+        },
+        {
           "id": "com.sudolev:interiors:0.5.6@jar",
           "name": "Create: Interiors",
           "type": "ForgeMod",
